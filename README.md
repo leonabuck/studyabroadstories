@@ -1,8 +1,6 @@
 # studyabroadstories
 <!DOCTYPE html>
 <html>
-<head>
-    <title>studyabroadstories</title>
 </head>
 <body>
     <h1>Study Abroad: Where Education meets Adventure</h1>
