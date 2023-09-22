@@ -5,4 +5,3 @@
 <body>
     <h1>Study Abroad: Where Education meets Adventure</h1>
 </body>
-</html>
