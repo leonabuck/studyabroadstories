@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <p>Study Abroad: Where Education meets Adventure</p>
+    <h1>Study Abroad: Where Education meets Adventure</h1>
 </body>
 <a href="https://www.dhbw-stuttgart.de/">Duale Hochschule Baden-Würrtemberg (DHBW)</a>
 </html>
