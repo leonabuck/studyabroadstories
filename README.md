@@ -4,6 +4,7 @@
     <ul>
         <li><a href="https://www.dhbw-stuttgart.de/">Duale Hochschule Baden-Würrtemberg (DHBW)</a></li>
 <body>
-    <h1>Study Abroad: Where Education meets Adventure</h1>
-    <img src="9F42BD6B-5C1B-4C78-96D4-CE98539FF698.jpeg" alt="Home1.png"
+    <h1> align="center">Study Abroad: Where Education meets Adventure</h1>
+    <p algin="center">
+        Webprogrammierung Kurs 2023
 </body>
